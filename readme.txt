@@ -345,5 +345,42 @@ public class SessionAPI {
 }
 
 
+_--------------------------------------------
 
 
+
+
+Hex Code	Usage %	Suggested UI Use in This Design
+
+#1d242c	3.15%	Background base (left side gradient panel)
+#282828	3.12%	Dark card backgrounds (subscriptions UI)
+#202930	2.93%	Section background and shadows
+#1f262e	2.35%	Mobile UI main container background
+#1b1b1b	2.33%	Shadow/contrast layer under floating cards
+#20272d	1.93%	UI panels or card overlays
+#1e252d	1.67%	Subtle button or card shadows
+#212a31	1.50%	Used in dark UI elements with subtle contrast
+#1f262c	1.08%	Variation of background or depth layering
+#232531	0.95%	Used in corners or around content dividers
+#161a3f	0.88%	Accent background gradient (top-left & bottom-right)
+#232428	0.69%	App UI frame border or base tone
+#25242a	0.61%	Card highlight or outline
+#292929	0.48%	Text shadows or subtle icon background
+#26252a	0.47%	Accent dark tone in cards or icons
+
+
+
+---
+
+✅ How These Colors Are Used
+
+UI Element	Color(s) Used	Explanation
+
+Background gradient	#1d242c to #161a3f	Creates a soft futuristic vibe and depth
+Main headline text	#FFFFFF	For maximum contrast on dark bg
+CTA Buttons (Try for Free)	#34D186 (green)	Bright green to catch attention
+Sign Up Button	#28C66F	Secondary accent green
+Subscription cards	#282828, #202930	Deep dark tones for modern look
+Floating cards/icons	Gradient tones + transparent overlays	Adds depth, simulates movement
+Small icons (Sketch, UI, Figma)	Yellow, blue, red	Color-coded based on brand
+Typography (subtext)	Light gray to white (#D0D0D0 - #FFFFFF)	Soft on eyes, not too harsh
